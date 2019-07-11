@@ -1,9 +1,5 @@
 //=================================================================================================
-// Program that creates a hidden secure virual desktop
-// Window messages can be sent only between processes that are on the same desktop.
-// Particularly, the hook procedure (abundantly used by keyloggers) of a process running
-// on a particular desktop can only receive messages intended for windows created in the same desktop.
-// Thus, Virtual desktops can be used as a mecanism to prevent keyloggers and screen-recorders.
+// Creates a hidden secure virtual desktop
 //=================================================================================================
 
 #define WIN32_LEAN_AND_MEAN		// cut the overhead
