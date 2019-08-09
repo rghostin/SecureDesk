@@ -12,7 +12,7 @@ This is a comparable mechanism to the one used in the Ctrl+Alt+Del and the WinLo
 ## Controls
 After execution, you can switch between the original and the secure desktop.
 
-- **Ctrl + Alt + RightArrow** : Switch to secure desktop
-- **Ctrl + Alt + LeftArrow**  : Switch to hidden desktop
+- **Ctrl + Alt + RightArrow** : Switch to secure hidden desktop
+- **Ctrl + Alt + LeftArrow**  : Switch to original desktop
 - **Ctrl + C**                : Exit program
 
